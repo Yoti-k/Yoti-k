@@ -5,4 +5,4 @@ I am a young developer from Russia
 
 * 🌍  I'm based in Orel
 * ✉️  You can contact me at [tipkin2005@mail.ru](mailto:tipkin2005@mail.ru)
-* 🧠  I'm learning OSU named after Turgenev
+* 🧠  I'm learning OGU named after Turgenev
